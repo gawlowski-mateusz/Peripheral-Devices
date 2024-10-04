@@ -1,0 +1,17 @@
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\bin\Release\DirectInput.exe.config
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\bin\Release\DirectInput.exe
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\bin\Release\DirectInput.pdb
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\bin\Release\SharpDX.DirectInput.dll
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\bin\Release\SharpDX.dll
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\bin\Release\SharpDX.pdb
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\bin\Release\SharpDX.DirectInput.pdb
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\bin\Release\SharpDX.DirectInput.xml
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\obj\Release\DirectInputNamespace.Canvas.resources
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\obj\Release\DirectInputNamespace.MouseEmulation.resources
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\obj\Release\DirectInputNamespace.Selector.resources
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\obj\Release\DirectInput.csproj.GenerateResource.cache
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\obj\Release\DirectInput.csproj.CoreCompileInputs.cache
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\obj\Release\DirectInput.csproj.CopyComplete
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\obj\Release\DirectInput.exe
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\obj\Release\DirectInput.pdb
+C:\Users\grzeg\Desktop\Studia\UrzadzeniaPeryferyjne\DirectInput\DirectInput\obj\Release\DirectInput.csprojResolveAssemblyReference.cache
