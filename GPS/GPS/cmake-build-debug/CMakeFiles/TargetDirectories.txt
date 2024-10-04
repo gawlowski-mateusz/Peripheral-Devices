@@ -1,0 +1,3 @@
+C:/Users/Mateusz/Desktop/Studies/Semestr 5/Urządzenia peryferyjne/lab3/GPS/cmake-build-debug/CMakeFiles/GPS.dir
+C:/Users/Mateusz/Desktop/Studies/Semestr 5/Urządzenia peryferyjne/lab3/GPS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mateusz/Desktop/Studies/Semestr 5/Urządzenia peryferyjne/lab3/GPS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
